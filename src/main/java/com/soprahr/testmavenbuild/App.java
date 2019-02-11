@@ -1,5 +1,5 @@
 package com.soprahr.testmavenbuild;
-
+import java.io.IOException;
 /**
  * Hello world!
  *
